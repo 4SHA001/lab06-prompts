@@ -1,7 +1,7 @@
 # Bitacora de prompts
 
 Laboratorio 06: Fundamentos de Ingenieria de Prompts.
-Herramienta de IA usada: (escribe aqui cual usaste)
+Herramienta de IA usada: (google gemini)
 
 ## Ejercicio 2: Tokens y ventana de contexto
 
